@@ -1,0 +1,4 @@
+﻿{
+	method:'POST',
+	mime:'application/json'
+}

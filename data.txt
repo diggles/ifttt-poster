@@ -1,0 +1,8 @@
+﻿{
+	trigger:'ifttt',
+	data:
+	{
+		value1:'Alert',
+		value2:'The Description'
+	}
+}

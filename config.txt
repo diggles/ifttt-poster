@@ -1,0 +1,4 @@
+﻿{
+	url:'https://maker.ifttt.com/trigger/{0}/with/key/{1}',
+	key:''
+}
